@@ -34,3 +34,8 @@
   color: #42b983;
 }
 </style>
+
+<style lang="scss">
+  @import "./scss/_variables.scss";
+  @import "./scss/_global.scss";
+</style>
